@@ -1,4 +1,4 @@
-### Oi, eu sou o Felipe Monteiro 👋
+### Hi, I am Felipe Monteiro 👋
 
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=lzfelipemonteiro&count_private=true&show_icons=true&theme=codeSTACKr&include_all_commits=true&)
 ![Felipe GitHub top langs](https://github-readme-stats.vercel.app/api/top-langs?username=lzfelipemonteiro&theme=codeSTACKr&layout=compact&langs_count=8)
@@ -10,7 +10,6 @@
   <img align="center" alt="Nerp-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nerp-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nerp-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Nerp-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react-native/react-native-original.svg">
 </div>
 
 ##
